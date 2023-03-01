@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "Mèo Anh lông dài",
+        "picture": "src/assets/images/cat-1.jpg",
+        "description": "Đây là giống mèo cảnh thuần chủng có nguồn gốc từ Anh.",
+        "price": 666.000
+    },
+    {
+        "id": 2,
+        "title": "Cá Lau kiến",
+        "picture": "src/assets/images/Blue-Panaque-Fish.jpg",
+        "description": "Đây là giống cá cảnh thuần chủng có nguồn gốc từ Thái Lan.",
+        "price": 333.000
+    },
+    {
+        "id": 3,
+        "title": "Chó Ấn Độ",
+        "picture": "src/assets/images/dog-8.jpg",
+        "description": "Một trong những loài chó được nuôi rộng rãi ở Campuchia và Việt Nam.",
+        "price": 899.000
+    },
+    {
+        "id": 4,
+        "title": "Thức ăn",
+        "picture": "src/assets/images/eat-cat1.jpg",
+        "description": "Đây là giống mèo cảnh thuần chủng có nguồn gốc từ Mỹ.",
+        "price": 359.000
+    },
+    {
+        "id": 5,
+        "title": "Chó lông xù",
+        "picture": "src/assets/images/dog-4.jpg",
+        "description": "Chó lông xù trắng Samoyed.",
+        "price": 799.000
+    },
+    {
+        "id": 6,
+        "title": "Cá Thù Lù",
+        "picture": "src/assets/images/ca-thu-lu.jpg",
+        "description": "Đây là giống cá cảnh thuần chủng có nguồn gốc từ Việt Nam .",
+        "price": 260.000
+    },
+    {
+        "id": 7,
+        "title": "Cá Trạng Nguyên",
+        "picture": "src/assets/images/ca-trang-nguyen.jpg",
+        "description": "Cá Trạng Nguyên là lòi cá mang phong cách Nhật Bản.",
+        "price": 599.000
+    },
+    {
+        "id": 8,
+        "title": "Cá Đuôi gai xanh",
+        "picture": "src/assets/images/Ca duoi gai xanh.jpg",
+        "description": "Đa số các loài thuộc họ Cá đuôi gai.",
+        "price": 499.000
+    }
+]
